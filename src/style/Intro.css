@@ -1,0 +1,54 @@
+
+
+#introcontainer{
+    margin-top: 300px;
+    width: 100vw;
+    height: fit-content;
+    position: static;
+    z-index: -1;
+    
+}
+
+.intro-h1{
+    color: #171717;
+    font-size: 48px;
+    font-weight: 1000;
+    font-style: italic;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.intro-span{
+    color: #e76213;
+}
+
+.intro-p-1{
+   
+    font-size: 16px;
+    color: #6b7280 ;
+    margin-bottom: 40px;
+}
+
+.intro-marquee{
+    color:rgba(254, 215, 170, 0.504);
+    font-size: 110px;
+    font-weight: 1000;
+    z-index: -1;
+   padding-bottom: 13px;
+   width: 100vw;
+}
+
+.intro-p-2{
+    color: #0f1728;
+    text-transform: capitalize;
+    font-size: 12px;
+}
+
+.banner-section{
+    padding: auto;
+    width: 100vw;
+    height: auto;
+  
+    margin: 30px;
+}
+

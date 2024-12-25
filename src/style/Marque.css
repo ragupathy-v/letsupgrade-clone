@@ -1,0 +1,13 @@
+.pera{
+    color:#ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto 14px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.marque-container{
+    margin-bottom: 120px;
+}
