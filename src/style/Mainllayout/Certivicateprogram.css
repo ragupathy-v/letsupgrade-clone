@@ -34,9 +34,18 @@
     color: #f97316;
     margin: 0 8px ;
     font-size: 20px;
-    font-weight: 700;
-    
+    font-weight: 700;   
 }
+
+@media(max-width:716px){
+    .head-para{
+        color: #f97316;
+        margin: 0 8px ;
+        font-size: 13px;
+        font-weight: 600 ;   
+    }
+}
+
 .head-para2{
    color: white;
    font-size: 40px;
